@@ -1,4 +1,4 @@
-import {Readable} from 'stream';
+import {Readable} from 'readable-stream';
 
 export class BackpressuredReadableStream extends Readable
 {
