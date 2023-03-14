@@ -32,6 +32,7 @@
     },
     "homepage": "https://github.com/cubbit/web-file-stream#readme",
     "devDependencies": {
+        "@types/readable-stream": "^2.3.15",
         "readable-stream": "^3.6.2",
         "@types/jest": "^26.0.20",
         "@types/node": "^14.14.31",
